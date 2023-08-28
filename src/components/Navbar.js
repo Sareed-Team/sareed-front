@@ -119,7 +119,7 @@ const Navbar = () => {
         </div>
         <div className='text-center w-full'>
           <p className='text-sm leading-6 text-gray-900'>
-            <strong className='font-semibold'>The site is working in test mode.</strong>
+            <strong className='font-semibold'>The site is working in test mode. t.me : dotnettashkent</strong>
           </p>
         </div>
       </div>
